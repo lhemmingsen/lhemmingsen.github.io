@@ -27,11 +27,18 @@ h2 {
 }
 
 h3 {
+    font-family: Helvetica;
     font-weight: bold;
 }
 
-.price-tag {
+p {
     font-family: Helvetica;
-    font-weight: bold;
+}
+
+.images {
+    align-content: left;
+}
+
+.price-tag {
     color: blue;
 }
