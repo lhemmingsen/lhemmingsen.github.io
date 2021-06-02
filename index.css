@@ -36,9 +36,9 @@ p {
 }
 
 .images {
-    float: left;
+    margin: left;
 }
 
-.price-tag {
+strong {
     color: blue;
 }
