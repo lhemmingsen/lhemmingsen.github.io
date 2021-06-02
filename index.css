@@ -36,7 +36,7 @@ p {
 }
 
 .images {
-    align-content: left;
+    float: left;
 }
 
 .price-tag {
