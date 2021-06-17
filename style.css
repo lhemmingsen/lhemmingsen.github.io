@@ -1,17 +1,19 @@
 #htmlcheatsheet {
     margin: auto;
-    width: 50%;
 }
 
 h2 {
     text-align: left;
-    margin: -100px;
     font-weight: 600;
     font-family:'Courier New', Courier, monospace
 }
 
+.tableimg {
+    padding: -200px;
+}
+
 table {
-    background-color: rgba(112, 128, 144, 0.5);
+    background-color: rgb(112, 128, 144);
     border-style: solid;
     border-width: medium;
     border-color: rgba(46, 139, 87, 0.75);
