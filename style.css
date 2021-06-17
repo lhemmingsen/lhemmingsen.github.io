@@ -15,8 +15,8 @@ h2 {
 }
 
 table {
-    color:rgba(112, 128, 144, 0.5);
+    color: rgba(112, 128, 144, 0.5);
     border-style: solid;
     border-width: medium;
-    border-color: seagreen rgba(46, 139, 87, 0.75);
+    border-color: rgba(46, 139, 87, 0.75);
 }
