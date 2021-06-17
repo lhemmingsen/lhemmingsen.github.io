@@ -1,3 +1,8 @@
+html {
+    color: rgb(255, 255, 255);
+    background-color:rgb(33, 38, 43)
+}
+
 #htmlcheatsheet {
     margin: auto;
 }
@@ -13,7 +18,7 @@ h2 {
 }
 
 table {
-    background-color: rgb(112, 128, 144);
+    color: rgba(71, 90, 109, 0.5);
     border-style: solid;
     border-width: medium;
     border-color: rgba(46, 139, 87, 0.75);
