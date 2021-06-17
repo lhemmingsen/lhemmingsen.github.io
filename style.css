@@ -3,3 +3,7 @@ h2 {
     font-weight: 600;
     font-family:'Courier New', Courier, monospace
 }
+
+.tableimg {
+    padding: -200px -100px 0 0;
+}
