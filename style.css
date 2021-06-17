@@ -5,12 +5,16 @@ html {
 
 #htmlcheatsheet {
     margin: auto;
+    left: 200px;
 }
 
 h2 {
+    color: rgba(151, 212, 253, 0.5);
     text-align: left;
+    margin: -100px;
+    font-size: 28px;
     font-weight: 600;
-    font-family:'Courier New', Courier, monospace
+    font-family: Hevletica, sans-serif;
 }
 
 .tableimg {
@@ -18,7 +22,7 @@ h2 {
 }
 
 table {
-    color: rgba(71, 90, 109, 0.5);
+    color: rgba(108, 142, 218, 0.5);
     border-style: solid;
     border-width: medium;
     border-color: rgba(46, 139, 87, 0.75);
