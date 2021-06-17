@@ -1,9 +1,15 @@
+#htmlcheatsheet {
+    margin: auto;
+    width: 50%;
+}
+
 h2 {
-    text-align: center;
+    text-align: left;
+    margin: -100px;
     font-weight: 600;
     font-family:'Courier New', Courier, monospace
 }
 
 .tableimg {
-    padding: -200px -100px 0 0;
+    padding: -200px;
 }
