@@ -10,10 +10,6 @@ h2 {
     font-family:'Courier New', Courier, monospace
 }
 
-.tableimg {
-    padding: -200px;
-}
-
 table {
     color: rgba(112, 128, 144, 0.5);
     border-style: solid;
